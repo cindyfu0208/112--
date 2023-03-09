@@ -18,6 +18,6 @@
 
 ## 作業筆記區
 
-- [HW1](https://github.com/cindyfu0208/PL/blob/main/ji.ipynb)
+- [HW1](https://github.com/cindyfu0208/PL/blob/main/hw1.ipynb)
 
 ## 專題筆記區
