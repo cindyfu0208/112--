@@ -19,5 +19,5 @@
 ## 作業筆記區
 
 - [HW1](https://github.com/cindyfu0208/PL/blob/main/hw1.ipynb)
-
+- [HW2](https://github.com/cindyfu0208/PL/blob/main/hw2.ipynb)
 ## 專題筆記區
