@@ -20,4 +20,6 @@
 
 - [HW1](https://github.com/cindyfu0208/PL/blob/main/hw1.ipynb)
 - [HW2](https://github.com/cindyfu0208/PL/blob/main/hw2.ipynb)
+- [HW3](https://github.com/cindyfu0208/PL/blob/main/hw3.ipynb)
+- [HW3-json](https://github.com/cindyfu0208/PL/blob/main/basketball.json)
 ## 專題筆記區
