@@ -24,4 +24,6 @@
 - [HW3-json](https://github.com/cindyfu0208/PL/blob/main/basketball.json)
 - [HW4](https://github.com/cindyfu0208/PL/blob/main/hw4.ipynb)
 - [HW4-medium](https://medium.com/@cindyfu0208/%E5%88%A9%E7%94%A8python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%88%86%E6%9E%90%E8%AB%96%E6%96%87%E9%97%9C%E9%8D%B5%E8%A9%9E-eaaf07172b6a)
+- [HW5](https://github.com/cindyfu0208/PL/blob/main/hw5.ipynb)
+- [HW5-medium](https://medium.com/@cindyfu0208/%E5%88%A9%E7%94%A8python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%88%86%E6%9E%90%E8%AB%96%E6%96%87%E9%97%9C%E9%8D%B5%E8%A9%9E-3eb5a2bf4531)
 ## 專題筆記區
